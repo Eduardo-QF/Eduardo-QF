@@ -3,7 +3,7 @@
 
 **`Estudante de Ciência da Computação | Desenvolvedor em formação`**
 
-Olá! Me chamo Eduardo Quintino Filho, tenho 19 anos e sou natural de Poá, São Paulo. Sou estudante de Ciência da Computação na Universidade Braz Cubas (UBC) e tenho formação técnica em Automação Industrial pelo IFSP. Sou apaixonado por tecnologia, especialmente pelas áreas de desenvolvimento e robótica, e busco constantemente aprender e evoluir na área de TI.
+Olá! Meu nome é Eduardo Quintino Filho, tenho 19 anos e sou natural de Poá, São Paulo. Atualmente, sou estudante do curso de Ciência da Computação na Universidade Braz Cubas (UBC) e possuo formação técnica em Automação Industrial pelo Instituto Federal de São Paulo (IFSP). Tenho grande interesse pela área de Tecnologia da Informação, com ênfase em desenvolvimento de sistemas. Estou em constante busca por aprimoramento e novas oportunidades que me permitam aplicar meus conhecimentos, desenvolver habilidades e contribuir com soluções inovadoras.
 
 ---
 
